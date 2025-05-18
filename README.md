@@ -30,6 +30,7 @@ Após a instalação terminar, confirme a instalação do Zsh, digite no termina
 ``zsh --version``
 
 A resposta deve ser parecida com essa (a versão pode ser diferente):
+
 ![alt text](ohmyzsh.png)
 
 Para qualquer informação adicional:
